@@ -43,5 +43,5 @@ body {
     font-size: 2em;
     border: 1px solid #000;
     cursor: pointer;
-    background-size: cover; /* Ensure the background image covers the cell */
+    background-size: cover;
 }
